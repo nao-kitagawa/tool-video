@@ -1,0 +1,8 @@
+{
+  "name": "Tích Tắc",
+  "style": "Charming storybook 2D illustration, soft cel shading, rich warm colors, gentle warm lighting, cozy picture-book feel.",
+  "prompt": "A tiny cute mascot character whose entire head is a round brass pocket watch: the clock face is the face, with two big expressive cartoon eyes with shiny highlights placed wide apart and a small smile drawn on the cream-white dial, soft rosy cheeks, thin delicate faded numbers around the dial edge, the two clock hands look like eyebrows, a small brass ring loop on top like a hair tuft and a tiny round knob on the side, big head and small round body with stubby warm-orange limbs (chibi proportions), small dark shoes, an orange scarf.",
+  "seed": 11,
+  "model": "filipstrand/Z-Image-Turbo-mflux-4bit (base z-image-turbo), 6 steps",
+  "history": "v1 prompt (technical: 'black Roman numerals', 'crown winder') made the face less cute and drew a royal crown — replaced 2026-11-25 by m1-style wording."
+}

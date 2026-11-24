@@ -39,3 +39,7 @@ research/mascot/
 # --- local caches ---
 .remotion/
 out/
+
+# rejected brand experiments
+brand/tictac/sheet_v1_rejected/
+brand/tictac/logo/*.png

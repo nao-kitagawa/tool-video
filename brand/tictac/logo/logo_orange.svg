@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="40%" r="70%"><stop offset="0" stop-color="#FF9A55"/><stop offset="1" stop-color="#E0581A"/></radialGradient>
+  <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3D27A"/><stop offset="0.45" stop-color="#D9B45A"/><stop offset="1" stop-color="#9C6E1E"/></linearGradient>
+  <radialGradient id="dial" cx="45%" cy="38%" r="70%"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F1E8D6"/></radialGradient>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<!-- scarf -->
+<path d="M235 600 Q400 690 565 600 L590 660 Q400 760 210 660 Z" fill="#A8360F"/>
+<path d="M500 640 L560 760 L610 740 L545 625 Z" fill="#A8360F" opacity="0.92"/>
+<!-- loop + bow -->
+<circle cx="400" cy="138" r="48" fill="none" stroke="url(#brass)" stroke-width="22"/>
+<rect x="368" y="168" width="64" height="44" rx="12" fill="url(#brass)" stroke="#7A5512" stroke-width="5"/>
+<!-- crown winder right -->
+<rect x="640" y="380" width="44" height="64" rx="12" fill="url(#brass)" stroke="#7A5512" stroke-width="5"/>
+<!-- case -->
+<circle cx="400" cy="412" r="250" fill="url(#brass)" stroke="#7A5512" stroke-width="8"/>
+<circle cx="400" cy="412" r="210" fill="url(#dial)" stroke="#B8892E" stroke-width="6"/>
+<!-- ticks -->
+<line x1="400.0" y1="222.0" x2="400.0" y2="252.0" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round"/>
+<line x1="495.0" y1="247.5" x2="486.0" y2="263.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="564.5" y1="317.0" x2="549.0" y2="326.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="590.0" y1="412.0" x2="560.0" y2="412.0" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round"/>
+<line x1="564.5" y1="507.0" x2="549.0" y2="498.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="495.0" y1="576.5" x2="486.0" y2="561.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="400.0" y1="602.0" x2="400.0" y2="572.0" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round"/>
+<line x1="305.0" y1="576.5" x2="314.0" y2="561.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="235.5" y1="507.0" x2="251.0" y2="498.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="210.0" y1="412.0" x2="240.0" y2="412.0" stroke="#2A2A2A" stroke-width="10" stroke-linecap="round"/>
+<line x1="235.5" y1="317.0" x2="251.0" y2="326.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<line x1="305.0" y1="247.5" x2="314.0" y2="263.0" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"/>
+<!-- cheeks -->
+<ellipse cx="292" cy="478" rx="34" ry="22" fill="#F4A6A0" opacity="0.85"/>
+<ellipse cx="508" cy="478" rx="34" ry="22" fill="#F4A6A0" opacity="0.85"/>
+<!-- eyes -->
+<ellipse cx="330" cy="420" rx="42" ry="50" fill="#1E1E1E"/>
+<ellipse cx="470" cy="420" rx="42" ry="50" fill="#1E1E1E"/>
+<circle cx="344" cy="402" r="15" fill="#fff"/><circle cx="484" cy="402" r="15" fill="#fff"/>
+<circle cx="320" cy="438" r="6" fill="#fff" opacity="0.8"/><circle cx="460" cy="438" r="6" fill="#fff" opacity="0.8"/>
+<!-- clock-hand eyebrows (left calm, right raised = playful) -->
+<path d="M282 340 L372 352" stroke="#1E1E1E" stroke-width="12" stroke-linecap="round"/>
+<path d="M372 352 l-16 -12 l4 20 z" fill="#1E1E1E"/>
+<path d="M430 338 L522 312" stroke="#1E1E1E" stroke-width="12" stroke-linecap="round"/>
+<path d="M522 312 l-20 -4 l10 18 z" fill="#1E1E1E"/>
+<circle cx="400" cy="412" r="9" fill="#B8892E"/>
+<!-- smile -->
+<path d="M368 500 Q400 530 432 500" fill="none" stroke="#1E1E1E" stroke-width="10" stroke-linecap="round"/>
+<!-- glow ring (time travel) -->
+<circle cx="400" cy="412" r="272" fill="none" stroke="#5FE3E8" stroke-width="6" stroke-dasharray="18 26" opacity="0.75"/>
+</svg>

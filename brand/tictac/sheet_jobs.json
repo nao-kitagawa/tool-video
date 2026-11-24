@@ -1,0 +1,17 @@
+{
+  "defaults": {"width": 1024, "height": 1024, "steps": 6, "seed": 11},
+  "jobs": [
+    {"name": "ref_front", "prompt": "{CHAR} Full body, front view, standing straight, friendly neutral smile, plain warm cream background, centered, character reference sheet."},
+    {"name": "exp_happy", "prompt": "{CHAR} Upper body, laughing happily with eyes closed in joy, both arms raised, plain soft cream background."},
+    {"name": "exp_scared", "prompt": "{CHAR} Upper body, terrified, eyes very wide, clock hands slanted up in fear, trembling, sweat drops, plain soft cream background."},
+    {"name": "exp_surprised", "prompt": "{CHAR} Upper body, shocked, mouth open in a round O, huge eyes, hands on cheeks, plain soft cream background."},
+    {"name": "exp_sad", "prompt": "{CHAR} Upper body, sad with teary eyes, clock hands drooping downward, shoulders slumped, plain soft cream background."},
+    {"name": "exp_confident", "prompt": "{CHAR} Upper body, confident smirk, one clock hand raised like a cocky eyebrow, giving a thumbs up, plain soft cream background."},
+    {"name": "exp_tired", "prompt": "{CHAR} Upper body, exhausted, half-closed eyes, slouching, wiping sweat, plain soft cream background."},
+    {"name": "era_cretaceous", "width": 1280, "height": 720, "prompt": "{CHAR} He wears a simple leaf-and-fur tunic with his orange scarf, standing nervously in a prehistoric jungle with giant ferns, a huge Tyrannosaurus rex roaring in the background, a smoking volcano far away, wide shot."},
+    {"name": "era_iceage", "width": 1280, "height": 720, "prompt": "{CHAR} He wears a thick fur coat with a hood and his orange scarf, shivering on a snowy ice-age tundra, woolly mammoths walking in the distance, a small campfire, wide shot."},
+    {"name": "era_blackdeath", "width": 1280, "height": 720, "prompt": "{CHAR} He wears a ragged medieval peasant tunic and holds a cloth over his face, in a muddy medieval European village at dusk during the plague, a wooden cart and worried villagers in the background, gloomy greenish fog, wide shot."},
+    {"name": "era_london1858", "width": 1280, "height": 720, "prompt": "{CHAR} He wears a Victorian flat cap and brown waistcoat with his orange scarf, pinching his nose on a foggy London street beside the dirty River Thames in 1858, factory chimneys and steam boats, wide shot."},
+    {"name": "era_egypt", "width": 1280, "height": 720, "prompt": "{CHAR} He wears a white linen kilt and a simple beaded collar with his orange scarf, happily holding a loaf of bread at the Giza pyramid construction site, workers hauling a huge stone block on a wooden sledge, bright desert sun, wide shot."}
+  ]
+}

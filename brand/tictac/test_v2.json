@@ -1,0 +1,7 @@
+{
+  "defaults": {"width": 1024, "height": 1024, "steps": 6, "seed": 11},
+  "jobs": [
+    {"name": "v2_ref_front", "prompt": "{CHAR} Full body, front view, standing with a friendly smile, soft warm cream background with gentle light, centered."},
+    {"name": "v2_exp_happy", "prompt": "{CHAR} Upper body, laughing happily with eyes squeezed shut in joy, arms raised, soft warm background with gentle bokeh light."}
+  ]
+}
