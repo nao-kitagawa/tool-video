@@ -10,11 +10,19 @@ git clone <repo> tool-video && cd tool-video
 brew install ffmpeg python@3.13 node@22
 ./scripts/setup.sh
 ```
-### PC NVIDIA (Windows/Linux) — cần điều chỉnh
-- `mflux` CHỈ chạy trên Mac → thay `scripts/gen_images.py` bằng bản dùng **diffusers** + Z-Image-Turbo (`Tongyi-MAI/Z-Image-Turbo`, Apache-2.0). Kiểm tra diffusers đã hỗ trợ pipeline Z-Image chưa; nếu chưa, dùng repo chính thức của Tongyi-MAI. Giữ nguyên format `jobs.json` + `{CHAR}`.
-- VieNeu: `pip install vieneu[gpu]` (chế độ GPU nhanh hơn nhiều). `scripts/tts.py` gọi `Vieneu()` mặc định — có thể chọn `mode="turbo_gpu"`/`"fast"`.
-- Remotion, ffmpeg, yt-dlp, faster-whisper (`device="cuda"`) chạy được. Trong `scripts/*.py` các đường dẫn `.venv*/bin/python` cần đổi sang `Scripts\python.exe` trên Windows.
-- Render nhanh hơn: `CONCURRENCY` = số nhân hiệu năng.
+### PC NVIDIA + WSL2 (máy đích của người dùng: CPU AMD, GPU NVIDIA, code trong WSL2 Ubuntu)
+```bash
+# trong WSL2, đặt repo trong ~ (KHÔNG để ở /mnt/c — I/O rất chậm)
+git clone tool-video.bundle ~/tool-video && cd ~/tool-video
+nvidia-smi                      # phải thấy GPU (driver cài trên Windows, không cài trong WSL)
+./scripts/setup_wsl.sh
+```
+Khác biệt so với Mac (người tiếp quản phải xử lý):
+1. **Tạo ảnh**: `mlx`/`mflux` chỉ chạy trên Mac → thêm backend **diffusers** cho `scripts/gen_images.py` dùng `Tongyi-MAI/Z-Image-Turbo` (Apache-2.0), giữ nguyên format `jobs.json`, `{CHAR}`, `{STYLE}`, bỏ qua ảnh đã có. Tham số tương đương: 6–8 bước, guidance thấp (turbo), seed cố định. Kiểm tra VRAM: bản bf16 ~33GB tải về; nếu GPU < 24GB thì bật `enable_model_cpu_offload()` hoặc dùng bản lượng tử hoá. So ảnh thử với `brand/tictac/test_v2/*.png` để giữ đúng phong cách (khác backend có thể ra hơi khác → chỉnh prompt/seed).
+2. **VieNeu**: `vieneu[gpu]` cài trong setup; trong `scripts/tts.py` có thể dùng `Vieneu(mode="turbo_gpu")` hoặc để mặc định (tự chọn backend). Nghe thử lại `voices/booker_raw.json` để chắc giọng giống bản trên Mac.
+3. **faster-whisper**: dùng `device="cuda", compute_type="float16"` trong `scripts/analyze_video.py`, `verify_lexicon.py`.
+4. **Remotion**: cần thư viện Chrome (đã cài trong setup_wsl.sh); render nhanh hơn với `CONCURRENCY` = số nhân thật của CPU AMD.
+5. Mở video để người dùng xem: file nằm trong WSL → `explorer.exe .` hoặc mở qua `\\wsl$\Ubuntu\home\<user>\tool-video\...` (không có QuickTime).
 
 ### Tải lại thứ không có trong repo
 - Footage Dune: `projects/dune3-trailer/SOURCES.md`
