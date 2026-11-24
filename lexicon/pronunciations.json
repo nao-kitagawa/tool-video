@@ -1,0 +1,337 @@
+{
+ "_doc": "Từ điển phát âm của kênh. Mỗi mục: \"en\" = để bộ đọc tiếng Anh sẵn có xử lý | {ipa, vi (chuỗi hoặc danh sách phương án), use: ipa|vi|vi0..} . verify_lexicon.py đọc thử từng phương án bằng giọng kênh, chấm bằng Whisper rồi ghi lại 'use'. Nguồn: IPA theo Wikipedia/từ điển Anh, tên Dune theo cách đọc của Frank Herbert & phim; phiên âm Việt theo cách các kênh review Việt hay đọc. Từ tiếng Anh thông dụng khác: dự phòng bằng lexicon/third_party/vietnormalizer (MIT).",
+ "Dune": "en",
+ "Paul": "en",
+ "Leto": "en",
+ "Duncan": "en",
+ "Idaho": "en",
+ "Duncan Idaho": "en",
+ "Edric": "en",
+ "Lady": "en",
+ "Jessica": "en",
+ "Frank": "en",
+ "Robert": "en",
+ "Jason": "en",
+ "Brian": "en",
+ "Rebecca": "en",
+ "Ferguson": "en",
+ "Pattinson": "en",
+ "trailer": "en",
+ "teaser": "en",
+ "video": "en",
+ "footage": "en",
+ "spoil": "en",
+ "thriller": "en",
+ "comment": "en",
+ "stillsuit": "en",
+ "stone burner": "en",
+ "stone": "en",
+ "burner": "en",
+ "Face Dancer": "en",
+ "Face": "en",
+ "Dancer": "en",
+ "Children of Dune": "en",
+ "Children": "en",
+ "of": "en",
+ "Booker": "en",
+ "Rise": "en",
+ "The Booker Rise": "en",
+ "IMAX": {
+  "ipa": "ˈaɪmæks",
+  "vi": [
+   "ai mắc",
+   "ai mách"
+  ],
+  "use": "vi0",
+  "note": "user: đọc 'ai mắc'"
+ },
+ "Fremen": {
+  "ipa": "fɹˈɛmən",
+  "vi": [
+   "phờ rem mần",
+   "phơ rê men",
+   "phrem men"
+  ],
+  "use": "ipa"
+ },
+ "Atreides": {
+  "ipa": "ɐtɹˈeɪdiːz",
+  "vi": [
+   "a trây đi",
+   "ơ trây đít"
+  ],
+  "use": "ipa"
+ },
+ "Arrakis": {
+  "ipa": "ɐɹˈækɪs",
+  "vi": [
+   "a ra kít",
+   "ơ rác kít"
+  ],
+  "use": "ipa"
+ },
+ "Chani": {
+  "ipa": "tʃˈɑːni",
+  "vi": [
+   "cha ni"
+  ],
+  "use": "vi0"
+ },
+ "Irulan": {
+  "ipa": "ˈɪɹʊlæn",
+  "vi": [
+   "i ru lan"
+  ],
+  "use": "vi0"
+ },
+ "Scytale": {
+  "ipa": "sˈɪtəli",
+  "vi": [
+   "xít tơ li"
+  ],
+  "use": "ipa"
+ },
+ "Tleilaxu": {
+  "ipa": "tlˈeɪlæʃuː",
+  "vi": [
+   "tơ lây la xu",
+   "tơ lây lắc xu"
+  ],
+  "use": "vi0"
+ },
+ "Bene Gesserit": {
+  "ipa": "bˈɛnɪ ɡˈɛsəɹɪt",
+  "vi": [
+   "be nê ghét xơ rít",
+   "bê nê ghét xơ rít"
+  ],
+  "use": "ipa"
+ },
+ "Bene": {
+  "ipa": "bˈɛnɪ",
+  "vi": [
+   "be nê"
+  ],
+  "use": "ipa"
+ },
+ "Gesserit": {
+  "ipa": "ɡˈɛsəɹɪt",
+  "vi": [
+   "ghét xơ rít"
+  ],
+  "use": "ipa"
+ },
+ "Muad'Dib": {
+  "ipa": "mˈuːɑːdˌiːb",
+  "vi": [
+   "mu a đíp",
+   "mu át đíp"
+  ],
+  "use": "ipa",
+  "note": "Herbert: moo-ah-DEEB"
+ },
+ "Messiah": {
+  "ipa": "məsˈaɪə",
+  "vi": [
+   "mơ xai a"
+  ],
+  "use": "ipa"
+ },
+ "Dune Messiah": {
+  "ipa": "dˈuːn məsˈaɪə",
+  "vi": [
+   "điun mơ xai a"
+  ],
+  "use": "ipa"
+ },
+ "Alia": {
+  "ipa": "ˈɑːliə",
+  "vi": [
+   "a li a"
+  ],
+  "use": "ipa"
+ },
+ "Ghanima": {
+  "ipa": "ɡˈɑːnɪmə",
+  "vi": [
+   "ga ni ma"
+  ],
+  "use": "ipa"
+ },
+ "Stilgar": {
+  "ipa": "stˈɪlɡɑːɹ",
+  "vi": [
+   "xtin ga"
+  ],
+  "use": "vi0"
+ },
+ "Mohiam": {
+  "ipa": "mˈoʊhiæm",
+  "vi": [
+   "mô hi am"
+  ],
+  "use": "vi0"
+ },
+ "Hayt": {
+  "ipa": "hˈeɪt",
+  "vi": [
+   "hết"
+  ],
+  "use": "ipa"
+ },
+ "ghola": {
+  "ipa": "ɡˈoʊlə",
+  "vi": [
+   "gô la"
+  ],
+  "use": "ipa"
+ },
+ "Harkonnen": {
+  "ipa": "hˈɑːɹkənən",
+  "vi": [
+   "hác co nần"
+  ],
+  "use": "ipa"
+ },
+ "Shaddam": {
+  "ipa": "ʃˈædəm",
+  "vi": [
+   "sa đam"
+  ],
+  "use": "vi0"
+ },
+ "Gurney": {
+  "ipa": "ɡˈɜːni",
+  "vi": [
+   "gơ ni"
+  ],
+  "use": "ipa"
+ },
+ "Kwisatz Haderach": {
+  "ipa": "kwˈɪsæts hˈædɚæk",
+  "vi": [
+   "quy xát ha đơ rắc"
+  ],
+  "use": "ipa"
+ },
+ "Villeneuve": {
+  "ipa": "vilnˈʌv",
+  "vi": [
+   "vin nơ vơ",
+   "vin nớp"
+  ],
+  "use": "vi1"
+ },
+ "Denis Villeneuve": {
+  "ipa": "dənˈiː vilnˈʌv",
+  "vi": [
+   "đơ ni vin nơ vơ"
+  ],
+  "use": "vi0"
+ },
+ "Chalamet": {
+  "ipa": "ʃˈæləmeɪ",
+  "vi": [
+   "sa la mê"
+  ],
+  "use": "vi0"
+ },
+ "Timothée": {
+  "ipa": "tˈɪməθi",
+  "vi": [
+   "ti mô thê"
+  ],
+  "use": "vi0"
+ },
+ "Zendaya": {
+  "ipa": "zɛndˈeɪə",
+  "vi": [
+   "zen đây a"
+  ],
+  "use": "ipa"
+ },
+ "Momoa": {
+  "ipa": "moʊmˈoʊə",
+  "vi": [
+   "mô mô a"
+  ],
+  "use": "ipa"
+ },
+ "Anya": {
+  "ipa": "ˈɑːnjə",
+  "vi": [
+   "a nha"
+  ],
+  "use": "vi0"
+ },
+ "Taylor-Joy": {
+  "ipa": "tˈeɪlɚ dʒˈɔɪ",
+  "vi": [
+   "tây lơ choi"
+  ],
+  "use": "ipa"
+ },
+ "Javier": {
+  "ipa": "hɑːvjˈɛɹ",
+  "vi": [
+   "ha vi e"
+  ],
+  "use": "vi0"
+ },
+ "Bardem": {
+  "ipa": "bɑːɹdˈɛm",
+  "vi": [
+   "ba đem"
+  ],
+  "use": "vi0"
+ },
+ "Florence Pugh": {
+  "ipa": "flˈɔːɹəns pjˈuː",
+  "vi": [
+   "phlo rần piu"
+  ],
+  "use": "ipa"
+ },
+ "Pugh": {
+  "ipa": "pjˈuː",
+  "vi": [
+   "piu"
+  ],
+  "use": "ipa"
+ },
+ "Hans": {
+  "ipa": "hˈɑːns",
+  "vi": [
+   "han"
+  ],
+  "use": "ipa"
+ },
+ "Zimmer": {
+  "ipa": "zˈɪmɚ",
+  "vi": [
+   "dim mơ"
+  ],
+  "use": "ipa"
+ },
+ "Herbert": {
+  "ipa": "hˈɜːbɚt",
+  "vi": [
+   "hơ bớt"
+  ],
+  "use": "vi0"
+ },
+ "Vaughan": {
+  "ipa": "vˈɔːn",
+  "vi": [
+   "von"
+  ],
+  "use": "ipa"
+ },
+ "Brian K. Vaughan": {
+  "ipa": "bɹˈaɪən kˈeɪ vˈɔːn",
+  "vi": [
+   "brai ần kây von"
+  ],
+  "use": "ipa"
+ }
+}

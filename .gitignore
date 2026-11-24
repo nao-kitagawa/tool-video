@@ -1,0 +1,41 @@
+# --- dependencies / environments ---
+node_modules/
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+.DS_Store
+
+# --- heavy media (regenerable) ---
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+projects/*/out/
+projects/*/audio/
+projects/*/assets/
+!projects/*/assets/.gitkeep
+voice-samples/
+lexicon/verify/
+lexicon/listen_check*.wav
+
+# --- third-party copyrighted material (download again with the scripts) ---
+projects/*/trailer/*.mp4
+projects/*/trailer/analysis*/thumbs/
+projects/*/trailer/analysis*/sheet_*.jpg
+research/ref/
+research/pacing/*.json3
+research/meta_*.json
+
+# --- generated images (keep only curated brand assets under brand/) ---
+research/imgtest/
+research/mascot/
+*.png
+*.jpg
+!brand/**/*.png
+!brand/**/*.jpg
+
+# --- local caches ---
+.remotion/
+out/

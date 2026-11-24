@@ -1,0 +1,23 @@
+{
+  "name": "tool-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "web": "node server/server.mjs",
+    "studio": "remotion studio remotion/index.ts",
+    "make": "node scripts/pipeline.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/google-fonts": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}

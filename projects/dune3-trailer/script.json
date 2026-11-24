@@ -1,0 +1,35 @@
+{
+  "style": "news",
+  "tag": "PHÂN TÍCH TRAILER",
+  "source": "Trailer: Warner Bros. • Nguồn: AV Club, TheWrap, Wikipedia",
+  "videos": ["trailer/final_trailer.mp4"],
+  "product": {
+    "name": "Dune: Part Three – Final Trailer",
+    "theme": { "primary": "#e07a2c", "accent": "#f6c35c", "bg": "#0e0906", "text": "#ffffff" },
+    "emojis": []
+  },
+  "voice": "Trúc Ly",
+  "speed": 1.15,
+  "pitch": 1.06,
+  "music": null,
+  "scenes": [
+    { "type": "clip", "clips": [ { "t": 0.5, "d": 3.5, "x": 0.55 }, { "t": 55.8, "d": 2.2, "x": 0.45 } ], "headline": "DUNE 3: TRAILER CUỐI", "voice": "Trailer cuối của Dune phần ba đã ra, và Paul Atreides giờ không còn là cậu bé ngày nào nữa. Mổ xẻ ngay nha!", "caption": "Trailer cuối Dune 3 đã ra, và Paul Atreides giờ không còn là cậu bé ngày nào. Mổ xẻ ngay nha!" },
+    { "type": "list", "bgClip": { "t": 41.0, "d": 6 }, "headline": "Thông tin nhanh", "bullets": ["Ra rạp: 18/12/2026", "Đạo diễn: Denis Villeneuve", "Chuyển thể: Dune Messiah (1969)", "Bối cảnh: 17 năm sau phần 2"], "voice": "Phim ra rạp ngày mười tám tháng mười hai, vẫn do Denis Villeneuve đạo diễn, chuyển thể từ cuốn Dune Messiah. Câu chuyện diễn ra mười bảy năm sau phần hai.", "caption": "Ra rạp 18/12, Denis Villeneuve đạo diễn, chuyển thể Dune Messiah. Bối cảnh 17 năm sau phần 2." },
+    { "type": "clip", "layout": "fit", "clips": [ { "t": 33.6, "d": 1.4 }, { "t": 35.0, "d": 1.2 }, { "t": 37.2, "d": 1.4 }, { "t": 53.4, "d": 2.3 }, { "t": 47.8, "d": 3.0 } ], "headline": "Từ cậu bé thành Hoàng đế", "voice": "Paul giờ là Hoàng đế. Tượng đài khổng lồ, đám đông quỳ lạy, và đội quân thánh chiến đã lan khắp vũ trụ." },
+    { "type": "clip", "dialogue": true, "clips": [ { "t": 45.0, "d": 2.0, "x": 0.5 } ], "caption": "“Muad'Dib đã chinh phạt cả nghìn thế giới.”", "quote": "“Muad'Dib has conquered a thousand worlds.”", "voice": "" },
+    { "type": "clip", "clips": [ { "t": 6.4, "d": 4.4, "x": 0.35 }, { "t": 16.2, "d": 2.4, "x": 0.4 } ], "headline": "Âm mưu ám sát", "label": "Florence Pugh", "sub": "Công chúa Irulan", "voice": "Mở đầu trailer, Paul dùng Giọng Nói ép công chúa Irulan khai ra: sắp có một vụ ám sát. Và cái tên được nhắc đến làm ai cũng sốc." },
+    { "type": "clip", "dialogue": true, "clips": [ { "t": 11.5, "d": 1.3, "x": 0.42 }, { "t": 26.1, "d": 1.05, "x": 0.35 } ], "caption": "“Nói ta nghe ngươi biết gì!” … “Chani có liên quan!”", "quote": "“Tell me what you know!” … “Chani's involved!”", "voice": "" },
+    { "type": "clip", "clips": [ { "t": 24.8, "d": 1.5, "x": 0.3 }, { "t": 58.0, "d": 1.5, "x": 0.3 } ], "headline": "Gương mặt mới", "label": "Robert Pattinson", "sub": "Scytale – Face Dancer", "voice": "Gương mặt mới đáng chú ý nhất: Robert Pattinson vai Scytale, một Face Dancer biết thay hình đổi dạng, kẻ âm mưu lật đổ Paul." },
+    { "type": "clip", "dialogue": true, "clips": [ { "t": 55.75, "d": 2.25, "x": 0.45 }, { "t": 58.0, "d": 0.95, "x": 0.3 } ], "caption": "“…cách vô hiệu hóa Hoàng đế, chấm dứt cơn điên này.”", "quote": "“…a way to neutralize the Emperor and end this madness.”", "voice": "" },
+    { "type": "clip", "clips": [ { "t": 84.6, "d": 2.1, "x": 0.4 }, { "t": 93.8, "d": 1.3, "x": 0.4 }, { "t": 80.7, "d": 1.3, "x": 0.6 } ], "headline": "Chani phản bội?", "label": "Zendaya", "sub": "Chani", "voice": "Còn Chani? Trong trailer, Scytale hỏi Chani đã sẵn sàng chưa, và cô đáp lại thế này." },
+    { "type": "clip", "dialogue": true, "clips": [ { "t": 65.5, "d": 1.3, "x": 0.4 } ], "caption": "“Người Fremen luôn giữ lời.”", "quote": "“Fremen keep their word.”", "voice": "" },
+    { "type": "clip", "clips": [ { "t": 74.3, "d": 1.7, "x": 0.4 }, { "t": 110.2, "d": 0.9, "x": 0.45 }, { "t": 132.7, "d": 0.6, "x": 0.5 } ], "headline": "Suy đoán thôi nha", "voice": "AV Club cho rằng Chani đã bắt tay với Scytale để chống lại Paul, và cô làm vậy vì các con. Nhưng đây vẫn là cách đọc trailer, chưa phải xác nhận chính thức nha.", "caption": "AV Club cho rằng Chani bắt tay Scytale chống Paul, vì các con. Nhưng đây là suy đoán, chưa xác nhận nha." },
+    { "type": "clip", "dialogue": true, "clips": [ { "t": 76.45, "d": 6.3, "x": 0.55 }, { "t": 86.55, "d": 0.95, "x": 0.55 } ], "caption": "“Sau bao năm chinh chiến, ta đã thành kẻ áp bức mà Chani từng thề chống lại… Ta chính là kẻ thù.”", "quote": "“After years of combat, I've become the oppressor Chani had sworn to fight… I'm the enemy.”", "voice": "" },
+    { "type": "clip", "layout": "fit", "clips": [ { "t": 70.1, "d": 2.5 }, { "t": 111.1, "d": 0.9 }, { "t": 39.8, "d": 1.2 }, { "t": 97.8, "d": 2.5 }, { "t": 135.6, "d": 2.0 } ], "headline": "Phần 3 là phim thriller", "voice": "Villeneuve nói: phần một là chiêm nghiệm, phần hai là phim chiến tranh, còn phần ba là một bộ phim thriller, căng hơn và nhiều hành động hơn hẳn." },
+    { "type": "list", "bgClip": { "t": 135.6, "d": 4 }, "headline": "Phim khác sách ở đâu?", "bullets": ["Nhảy 17 năm (sách: 12 năm)", "Có Lady Jessica, sách thì không", "Chiến tranh ngoài Arrakis: sách chỉ nhắc lướt", "Hành trình của Paul thiên về chuộc lỗi"], "voice": "So với sách: phim đẩy mốc thời gian lên mười bảy năm, thêm Lady Jessica vốn không xuất hiện trong truyện, và theo Villeneuve, hành trình của Paul sẽ thiên về chuộc lỗi.", "caption": "So với sách: nhảy 17 năm, thêm Lady Jessica, và theo Villeneuve, Paul sẽ thiên về chuộc lỗi." },
+    { "type": "clip", "dialogue": true, "clips": [ { "t": 139.5, "d": 2.1, "x": 0.45 } ], "caption": "“Ta chẳng thể nói gì để bù đắp được nữa.”", "quote": "“There's nothing I can say to make amends.”", "voice": "" },
+    { "type": "clip", "clips": [ { "t": 148.3, "d": 2.6, "x": 0.35 } ], "headline": "18.12.2026", "voice": "Dune phần ba ra rạp ngày mười tám tháng mười hai. Bạn nghĩ Chani có phản bội Paul thật không? Comment cho mình biết nha!", "caption": "Dune 3 ra rạp 18/12. Bạn nghĩ Chani có phản bội Paul thật không? Comment nha!" }
+  ],
+  "caption": "Phân tích trailer cuối Dune: Part Three 🏜️ Paul thành Hoàng đế, Robert Pattinson vai Scytale, và Chani... phản bội? Ra rạp 18/12. Bạn nghĩ sao?",
+  "hashtags": ["dune", "dunepartthree", "dune3", "reviewphim", "phantichtrailer", "zendaya", "timotheechalamet"]
+}

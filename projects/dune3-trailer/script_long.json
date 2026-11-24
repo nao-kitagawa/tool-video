@@ -1,0 +1,1386 @@
+{
+ "format": "long",
+ "out": "long_v4",
+ "style": "news",
+ "videos": [
+  "trailer/final_trailer.mp4",
+  "trailer/official_trailer.mp4",
+  "trailer/teaser.mp4"
+ ],
+ "music": "assets/ambient_desert.wav",
+ "product": {
+  "name": "Dune: Part Three – Phân tích trọn bộ trailer",
+  "theme": {
+   "primary": "#e07a2c",
+   "accent": "#f6c35c",
+   "bg": "#0e0906",
+   "text": "#ffffff"
+  },
+  "emojis": []
+ },
+ "voice": "file:voices/booker_raw.json",
+ "speed": 1.0,
+ "pitch": 1.0,
+ "scenes": [
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "t": 76.45,
+     "d": 6.3,
+     "x": 0.55
+    },
+    {
+     "t": 86.55,
+     "d": 0.95
+    }
+   ],
+   "caption": "“Sau bao năm chinh chiến, ta đã thành kẻ áp bức mà Chani từng thề chống lại… Ta chính là kẻ thù.”",
+   "quote": "“After years of combat, I've become the oppressor Chani had sworn to fight… I'm the enemy.”",
+   "voice": "",
+   "chapter": "Mở đầu"
+  },
+  {
+   "type": "title",
+   "headline": "DUNE: PART THREE",
+   "sub": "PHÂN TÍCH TRỌN BỘ TRAILER",
+   "bgClip": {
+    "v": 0,
+    "t": 0.5,
+    "d": 6
+   },
+   "voice": "Ba trailer, hơn tám phút footage... và một câu hỏi lớn: Paul Atreides, người hùng của hai phần trước, giờ đã trở thành ai?",
+   "caption": "3 trailer, hơn 8 phút footage, và một câu hỏi lớn: Paul Atreides, người hùng của hai phần trước, giờ đã trở thành ai?"
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 15.6,
+     "d": 2.3
+    },
+    {
+     "v": 0,
+     "t": 39.8,
+     "d": 1.2
+    },
+    {
+     "v": 0,
+     "t": 70.1,
+     "d": 2.5
+    },
+    {
+     "v": 1,
+     "t": 43.8,
+     "d": 1.9
+    },
+    {
+     "v": 1,
+     "t": 48.8,
+     "d": 1.3
+    },
+    {
+     "v": 0,
+     "t": 47.8,
+     "d": 3.0
+    },
+    {
+     "v": 2,
+     "t": 49.0,
+     "d": 4.0
+    }
+   ],
+   "headline": "Nửa đầu: không spoil",
+   "voice": "Trong video này, mình sẽ mổ xẻ cả ba trailer: teaser tháng ba, trailer tháng bảy và trailer cuối cùng ra mắt ngày hai mươi bảy tháng mười. Nửa đầu hoàn toàn không spoil. Nửa sau, mình sẽ so sánh với cuốn tiểu thuyết Dune Messiah, nên ai chưa đọc sách thì nhớ để ý màn hình cảnh báo nha.",
+   "caption": "Mình sẽ mổ xẻ cả 3 trailer: teaser tháng 3, trailer tháng 7 và trailer cuối ngày 27/10. Nửa đầu không spoil. Nửa sau so sánh với tiểu thuyết Dune Messiah, nhớ để ý màn hình cảnh báo nha."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Bối cảnh: 17 năm sau",
+   "sub": "CHƯƠNG 1",
+   "headline": "17 năm sau",
+   "bgClip": {
+    "v": 2,
+    "t": 8.9,
+    "d": 3.9
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "timeline",
+   "headline": "Dòng thời gian",
+   "bgClip": {
+    "v": 0,
+    "t": 41.0,
+    "d": 6
+   },
+   "rows": [
+    {
+     "label": "Dune (2021)",
+     "a": "Nhà Atreides sụp đổ",
+     "b": "Paul trốn vào sa mạc"
+    },
+    {
+     "label": "Part Two (2024)",
+     "a": "Paul lãnh đạo Fremen",
+     "b": "Tuyên bố cưới Irulan, giành ngai vàng"
+    },
+    {
+     "label": "+17 năm",
+     "a": "Thánh chiến lan khắp vũ trụ",
+     "b": ""
+    },
+    {
+     "label": "Part Three",
+     "a": "Ra rạp 18/12/2026",
+     "b": "Chuyển thể Dune Messiah"
+    }
+   ],
+   "voice": "Nhắc lại nhanh. Phần một, nhà Atreides bị phản bội và sụp đổ, Paul cùng mẹ trốn vào sa mạc. Phần hai, Paul trở thành thủ lĩnh của người Fremen, đánh bại Hoàng đế và tuyên bố sẽ cưới công chúa Irulan để giành ngai vàng. Còn phần ba nhảy cóc tới mười bảy năm sau.",
+   "caption": "Phần 1: nhà Atreides sụp đổ, Paul trốn vào sa mạc. Phần 2: Paul lãnh đạo Fremen, đánh bại Hoàng đế, tuyên bố cưới Irulan để giành ngai vàng. Phần 3 nhảy tới 17 năm sau."
+  },
+  {
+   "type": "list",
+   "headline": "Thông tin chính thức",
+   "bgClip": {
+    "v": 1,
+    "t": 23.1,
+    "d": 1.2
+   },
+   "bullets": [
+    "Ra rạp: 18/12/2026, có định dạng IMAX",
+    "Đạo diễn: Denis Villeneuve",
+    "Kịch bản: Villeneuve & Brian K. Vaughan",
+    "Âm nhạc: Hans Zimmer",
+    "Chuyển thể: Dune Messiah (Frank Herbert, 1969)"
+   ],
+   "voice": "Phim ra rạp ngày mười tám tháng mười hai năm nay, có cả định dạng IMAX. Villeneuve tiếp tục đạo diễn và viết kịch bản cùng Brian K. Vaughan, nhạc vẫn do Hans Zimmer phụ trách. Nguồn gốc là cuốn Dune Messiah, tiểu thuyết thứ hai trong bộ Dune của Frank Herbert, xuất bản năm một nghìn chín trăm sáu mươi chín.",
+   "caption": "Ra rạp 18/12, có IMAX. Villeneuve đạo diễn, viết kịch bản cùng Brian K. Vaughan, nhạc Hans Zimmer. Chuyển thể Dune Messiah, tiểu thuyết thứ 2 của Frank Herbert (1969)."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Hoàng đế và cuộc thánh chiến",
+   "sub": "CHƯƠNG 2",
+   "headline": "Hoàng đế và cuộc thánh chiến",
+   "bgClip": {
+    "v": 0,
+    "t": 33.6,
+    "d": 1.4
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 33.6,
+     "d": 1.4
+    },
+    {
+     "v": 0,
+     "t": 35.0,
+     "d": 1.2
+    },
+    {
+     "v": 0,
+     "t": 37.2,
+     "d": 1.4
+    },
+    {
+     "v": 0,
+     "t": 53.4,
+     "d": 2.3
+    },
+    {
+     "v": 1,
+     "t": 23.1,
+     "d": 1.2
+    },
+    {
+     "v": 1,
+     "t": 36.0,
+     "d": 1.6
+    }
+   ],
+   "headline": "Từ thủ lĩnh thành thần tượng",
+   "voice": "Paul giờ không còn là cậu bé ngơ ngác trên Arrakis. Trailer cho thấy một bức tượng khổng lồ của Paul, đám đông giơ tay cuồng nhiệt, và những đội quân xếp hàng dưới chân kim tự tháp. Đây không còn là một cuộc kháng chiến nữa... mà đã thành một tôn giáo.",
+   "caption": "Paul không còn là cậu bé ngơ ngác trên Arrakis. Tượng khổng lồ, đám đông cuồng nhiệt, đội quân dưới chân kim tự tháp. Không còn là kháng chiến, mà đã thành tôn giáo."
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 0,
+     "t": 45.0,
+     "d": 2.0
+    }
+   ],
+   "caption": "“Muad'Dib đã chinh phạt cả nghìn thế giới.”",
+   "quote": "“Muad'Dib has conquered a thousand worlds.”",
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 15.6,
+     "d": 2.3
+    },
+    {
+     "v": 1,
+     "t": 76.0,
+     "d": 2.7
+    },
+    {
+     "v": 2,
+     "t": 49.0,
+     "d": 5.0
+    },
+    {
+     "v": 2,
+     "t": 60.2,
+     "d": 1.5
+    },
+    {
+     "v": 0,
+     "t": 91.2,
+     "d": 1.6
+    },
+    {
+     "v": 2,
+     "t": 62.7,
+     "d": 2.0
+    }
+   ],
+   "headline": "Chiến tranh ngoài Arrakis",
+   "voice": "Và lần đầu tiên trong loạt phim, chiến tranh rời khỏi sa mạc. Rừng cháy, bờ biển, những vùng đất xa lạ: quân Fremen đang đổ bộ lên hàng loạt hành tinh khác. Ai đọc sách sẽ biết, những trận chiến này trong truyện gần như chỉ được nhắc lướt qua. Nên đây là phần Villeneuve tự mở rộng, và mình thấy đó là một lựa chọn rất thông minh cho màn ảnh rộng.",
+   "caption": "Lần đầu tiên chiến tranh rời khỏi sa mạc: rừng cháy, bờ biển, vùng đất xa lạ. Trong sách, những trận này chỉ được nhắc lướt qua. Đây là phần Villeneuve tự mở rộng."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 19.6,
+     "d": 1.8
+    },
+    {
+     "v": 1,
+     "t": 29.4,
+     "d": 2.1
+    },
+    {
+     "v": 0,
+     "t": 105.8,
+     "d": 1.0
+    },
+    {
+     "v": 0,
+     "t": 0.5,
+     "d": 4.0
+    }
+   ],
+   "headline": "Quyền lực tuyệt đối",
+   "voice": "Nhưng để ý kỹ mà xem... Paul trong trailer, gần như không bao giờ cười. Ánh mắt mệt mỏi, đứng một mình trên những bậc thang trống trải. Với mình, đây là chìa khoá của cả bộ phim: câu chuyện về một người có quyền lực tuyệt đối, nhưng không còn chút tự do nào.",
+   "caption": "Để ý kỹ, Paul gần như không bao giờ cười. Với mình, đây là chìa khoá của cả phim: một người có quyền lực tuyệt đối, nhưng không còn tự do."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 126.3,
+     "d": 1.3
+    },
+    {
+     "v": 0,
+     "t": 118.6,
+     "d": 1.2
+    },
+    {
+     "v": 0,
+     "t": 131.2,
+     "d": 0.5
+    },
+    {
+     "v": 2,
+     "t": 86.5,
+     "d": 1.2
+    }
+   ],
+   "label": "Javier Bardem",
+   "sub": "Stilgar",
+   "voice": "Bên cạnh Paul vẫn là Stilgar của Javier Bardem. Ở phần hai, Stilgar là người tin vào lời tiên tri nhiều nhất, gần như chính ông đã tạo ra đấng cứu thế Paul. Sang phần ba, mình rất tò mò muốn xem niềm tin tuyệt đối ấy sẽ phải trả giá như thế nào.",
+   "caption": "Bên cạnh Paul vẫn là Stilgar. Ở phần 2, ông tin vào lời tiên tri nhiều nhất, gần như chính ông tạo ra đấng cứu thế. Niềm tin tuyệt đối ấy sẽ trả giá ra sao?"
+  },
+  {
+   "type": "chapter",
+   "chapter": "Âm mưu trong cung điện",
+   "sub": "CHƯƠNG 3",
+   "headline": "Âm mưu trong cung điện",
+   "bgClip": {
+    "v": 1,
+    "t": 69.2,
+    "d": 2.2
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 6.4,
+     "d": 4.4,
+     "x": 0.35
+    },
+    {
+     "v": 0,
+     "t": 16.2,
+     "d": 2.4
+    },
+    {
+     "v": 1,
+     "t": 63.6,
+     "d": 1.3
+    }
+   ],
+   "label": "Florence Pugh",
+   "sub": "Công chúa Irulan",
+   "voice": "Trailer cuối mở màn bằng cảnh căng nhất. Paul đi vòng quanh công chúa Irulan, người mà cuối phần hai anh tuyên bố sẽ cưới để có ngai vàng, rồi dùng Giọng Nói, năng lực điều khiển người khác của dòng Bene Gesserit, để ép cô khai ra sự thật.",
+   "caption": "Paul đi vòng quanh công chúa Irulan, người anh tuyên bố sẽ cưới ở cuối phần 2, rồi dùng Giọng Nói của Bene Gesserit để ép cô khai ra sự thật."
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 0,
+     "t": 11.5,
+     "d": 1.3
+    },
+    {
+     "v": 0,
+     "t": 26.1,
+     "d": 1.05
+    }
+   ],
+   "caption": "“Nói ta nghe ngươi biết gì!” … “Chani có liên quan!”",
+   "quote": "“Tell me what you know!” … “Chani's involved!”",
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 69.2,
+     "d": 2.2
+    },
+    {
+     "v": 1,
+     "t": 85.5,
+     "d": 1.2
+    },
+    {
+     "v": 1,
+     "t": 86.7,
+     "d": 1.9
+    },
+    {
+     "v": 0,
+     "t": 36.2,
+     "d": 1.1
+    },
+    {
+     "v": 1,
+     "t": 88.5,
+     "d": 1.8
+    }
+   ],
+   "headline": "Một cuộc họp bí mật",
+   "voice": "Một âm mưu ám sát đang thành hình. Trailer tháng bảy hé lộ một cuộc gặp lúc đêm khuya, có Mẹ Bề Trên Mohiam của hội Bene Gesserit, công chúa Irulan, và một người đàn ông tóc bạch kim mà mình sẽ nói ngay sau đây.",
+   "caption": "Trailer tháng 7 hé lộ cuộc gặp lúc đêm khuya: Mẹ Bề Trên Mohiam, công chúa Irulan, và một người đàn ông tóc bạch kim."
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 1,
+     "t": 84.5,
+     "d": 7.3
+    }
+   ],
+   "caption": "“Các người định giết Paul?” – “Thay đổi chế độ.” – “Đồ ngốc. Chúng ta vừa tự ký án tử của mình rồi.”",
+   "quote": "“You intend to kill Paul?” – “Regime change.” – “Idiot. We've just signed our death warrants.”",
+   "voice": ""
+  },
+  {
+   "type": "chapter",
+   "chapter": "Những gương mặt mới",
+   "sub": "CHƯƠNG 4",
+   "headline": "Những gương mặt mới",
+   "bgClip": {
+    "v": 1,
+    "t": 71.4,
+    "d": 1.2
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 71.4,
+     "d": 1.2,
+     "x": 0.3
+    },
+    {
+     "v": 0,
+     "t": 24.8,
+     "d": 1.5
+    },
+    {
+     "v": 0,
+     "t": 58.0,
+     "d": 1.5
+    },
+    {
+     "v": 1,
+     "t": 90.3,
+     "d": 1.4
+    },
+    {
+     "v": 2,
+     "t": 71.4,
+     "d": 3.8
+    }
+   ],
+   "label": "Robert Pattinson",
+   "sub": "Scytale – Face Dancer nhà Tleilaxu",
+   "voice": "Đầu tiên là Robert Pattinson trong vai Scytale. Tóc bạch kim, không lông mày, Scytale là một Face Dancer của nhà Tleilaxu, kẻ có thể thay đổi khuôn mặt để giả dạng người khác. Trong phim, hắn là kẻ âm mưu lật đổ Paul. Còn Pattinson thì nói một câu rất bí ẩn: biết đâu hắn lại là người tốt? [cười]",
+   "caption": "Robert Pattinson vai Scytale, Face Dancer nhà Tleilaxu, có thể thay đổi khuôn mặt, kẻ âm mưu lật đổ Paul. Pattinson nói: biết đâu hắn lại là người tốt?"
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 0,
+     "t": 55.75,
+     "d": 2.25
+    },
+    {
+     "v": 0,
+     "t": 58.0,
+     "d": 0.95
+    }
+   ],
+   "caption": "“…cách vô hiệu hóa Hoàng đế, chấm dứt cơn điên này.”",
+   "quote": "“…a way to neutralize the Emperor and end this madness.”",
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 52.1,
+     "d": 1.1
+    },
+    {
+     "v": 1,
+     "t": 53.2,
+     "d": 0.8
+    },
+    {
+     "v": 1,
+     "t": 59.7,
+     "d": 1.0
+    },
+    {
+     "v": 0,
+     "t": 101.3,
+     "d": 0.8
+    },
+    {
+     "v": 1,
+     "t": 43.8,
+     "d": 1.9
+    },
+    {
+     "v": 1,
+     "t": 46.9,
+     "d": 0.5
+    },
+    {
+     "v": 1,
+     "t": 47.4,
+     "d": 0.8
+    },
+    {
+     "v": 1,
+     "t": 48.8,
+     "d": 1.3
+    },
+    {
+     "v": 1,
+     "t": 50.5,
+     "d": 0.7
+    },
+    {
+     "v": 1,
+     "t": 132.0,
+     "d": 1.4
+    }
+   ],
+   "label": "Jason Momoa",
+   "sub": "Hayt – ghola mang hình hài Duncan Idaho",
+   "voice": "Jason Momoa trở lại, nhưng không còn là Duncan Idaho mà ta biết. Anh vào vai Hayt, một ghola, tức một cơ thể được nhà Tleilaxu tái tạo theo hình hài của Duncan, người đã hy sinh để bảo vệ Paul ở phần một. Trailer tháng bảy còn có cảnh Paul và Hayt đấu kiếm trong đại sảnh.",
+   "caption": "Jason Momoa vai Hayt, ghola được nhà Tleilaxu tái tạo theo hình hài Duncan Idaho, người đã hy sinh vì Paul ở phần 1. Paul và Hayt còn đấu kiếm trong đại sảnh."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 39.8,
+     "d": 1.2,
+     "x": 0.35
+    },
+    {
+     "v": 1,
+     "t": 129.8,
+     "d": 0.9
+    },
+    {
+     "v": 2,
+     "t": 103.5,
+     "d": 1.2
+    },
+    {
+     "v": 0,
+     "t": 116.6,
+     "d": 0.8
+    },
+    {
+     "v": 0,
+     "t": 95.2,
+     "d": 0.9
+    }
+   ],
+   "label": "Anya Taylor-Joy",
+   "sub": "Alia Atreides",
+   "voice": "Anya Taylor-Joy chính thức vào vai Alia, em gái của Paul. Ở cuối phần hai, Alia vẫn còn chưa chào đời. Giờ cô đã trưởng thành, và một trong những hình ảnh ám ảnh nhất của trailer là Alia trong tấm khăn trắng đẫm máu.",
+   "caption": "Anya Taylor-Joy vai Alia, em gái Paul. Cuối phần 2 Alia còn chưa chào đời. Hình ảnh ám ảnh nhất: Alia trong khăn trắng đẫm máu."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 2,
+     "t": 65.7,
+     "d": 0.8
+    },
+    {
+     "v": 2,
+     "t": 92.1,
+     "d": 3.9
+    }
+   ],
+   "label": "Rebecca Ferguson",
+   "sub": "Lady Jessica",
+   "voice": "Rebecca Ferguson cũng quay lại trong vai Lady Jessica, mẹ của Paul. Vai diễn được cho là chỉ gói gọn trong một phân cảnh, nhưng đây là một thay đổi đáng chú ý so với sách, mình sẽ nói kỹ ở nửa sau.",
+   "caption": "Rebecca Ferguson trở lại vai Lady Jessica, dù chỉ trong một phân cảnh. Đây là thay đổi đáng chú ý so với sách."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Paul và Chani",
+   "sub": "CHƯƠNG 5",
+   "headline": "Paul và Chani",
+   "bgClip": {
+    "v": 1,
+    "t": 7.9,
+    "d": 1.7
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 2,
+     "t": 12.8,
+     "d": 2.3
+    },
+    {
+     "v": 2,
+     "t": 31.4,
+     "d": 3.4
+    }
+   ],
+   "headline": "Khoảnh khắc dịu dàng",
+   "voice": "Teaser tháng ba mở đầu bằng một khoảnh khắc rất dịu dàng: Paul và Chani bàn chuyện đặt tên cho đứa con tương lai.",
+   "caption": "Teaser tháng 3 mở đầu bằng khoảnh khắc dịu dàng: Paul và Chani bàn chuyện đặt tên cho con."
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 2,
+     "t": 10.8,
+     "d": 3.5
+    },
+    {
+     "v": 2,
+     "t": 17.9,
+     "d": 6.3
+    },
+    {
+     "v": 2,
+     "t": 32.2,
+     "d": 1.4
+    }
+   ],
+   "caption": "“Nếu là con gái, mình đặt tên gì?” … “Ghanima. Con bé cần mạnh mẽ, như mẹ nó.” … “Con trai thì đặt là Leto.”",
+   "quote": "“If we have a girl, what will we name her?” … “Her name should be Ghanima. She would need to be strong, like her mother.” … “I would name him Leto.”",
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 12.3,
+     "d": 2.2
+    },
+    {
+     "v": 1,
+     "t": 21.9,
+     "d": 1.2
+    },
+    {
+     "v": 0,
+     "t": 84.6,
+     "d": 2.1
+    }
+   ],
+   "headline": "Rạn nứt",
+   "voice": "Nhưng đến trailer tháng bảy, mọi thứ đã rạn nứt. Chani đối mặt với Paul bằng những lời trách móc nặng nề nhất.",
+   "caption": "Đến trailer tháng 7, mọi thứ đã rạn nứt. Chani đối mặt Paul bằng những lời trách móc nặng nề nhất."
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 1,
+     "t": 5.6,
+     "d": 1.6
+    },
+    {
+     "v": 1,
+     "t": 12.0,
+     "d": 2.7
+    },
+    {
+     "v": 1,
+     "t": 17.7,
+     "d": 5.5
+    }
+   ],
+   "caption": "“Em đã tin anh! Anh hứa sẽ không bao giờ nhân danh mình mà nắm quyền.” … “Anh khiến em tin đây là nhà của anh… rằng em là nhà của anh.”",
+   "quote": "“I trusted you! You promised me that you would never take power in your name.” … “You convinced me that this was your home… that I was your home.”",
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 62.6,
+     "d": 0.6
+    },
+    {
+     "v": 0,
+     "t": 132.7,
+     "d": 0.6
+    },
+    {
+     "v": 0,
+     "t": 110.2,
+     "d": 0.9
+    },
+    {
+     "v": 1,
+     "t": 101.4,
+     "d": 3.3
+    }
+   ],
+   "headline": "Chani đứng về phía ai?",
+   "voice": "Và trailer cuối đẩy mọi thứ lên cao trào. Scytale hỏi Chani đã sẵn sàng chưa, và câu trả lời của cô là:",
+   "caption": "Trailer cuối đẩy mọi thứ lên cao trào. Scytale hỏi Chani đã sẵn sàng chưa, và câu trả lời là:"
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 0,
+     "t": 65.5,
+     "d": 1.3,
+     "x": 0.4
+    }
+   ],
+   "caption": "“Người Fremen luôn giữ lời.”",
+   "quote": "“Fremen keep their word.”",
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 74.3,
+     "d": 1.7
+    },
+    {
+     "v": 1,
+     "t": 112.7,
+     "d": 1.4
+    },
+    {
+     "v": 1,
+     "t": 7.9,
+     "d": 1.7
+    }
+   ],
+   "headline": "Mình đoán…",
+   "voice": "Ghép các mảnh lại với nhau, mình nghĩ Chani có liên quan đến âm mưu của Scytale. Trong trailer, cô nói mình làm tất cả vì các con. Nhưng Villeneuve rất giỏi đánh lừa người xem bằng trailer, nên đây vẫn chỉ là suy đoán của mình thôi nha.",
+   "caption": "Ghép các mảnh lại, mình nghĩ Chani có liên quan đến âm mưu của Scytale, vì các con. Nhưng Villeneuve rất giỏi đánh lừa bằng trailer, nên đây vẫn là suy đoán."
+  },
+  {
+   "type": "clip",
+   "dialogue": true,
+   "clips": [
+    {
+     "v": 0,
+     "t": 139.5,
+     "d": 2.1,
+     "x": 0.45
+    }
+   ],
+   "caption": "“Ta chẳng thể nói gì để bù đắp được nữa.”",
+   "quote": "“There's nothing I can say to make amends.”",
+   "voice": ""
+  },
+  {
+   "type": "chapter",
+   "chapter": "6 chi tiết có thể bạn đã bỏ lỡ",
+   "sub": "CHƯƠNG 6",
+   "headline": "6 chi tiết có thể bạn đã bỏ lỡ",
+   "bgClip": {
+    "v": 0,
+    "t": 105.8,
+    "d": 1.0
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 33.6,
+     "d": 1.4,
+     "zoom": 1.15
+    }
+   ],
+   "headline": "1. Bức tượng và con chim ưng",
+   "voice": "Chi tiết thứ nhất: bức tượng khổng lồ của Paul ngồi trên ngai, bên cạnh là một con chim, nhiều khả năng là chim ưng, biểu tượng của nhà Atreides. Biểu tượng của cả một gia tộc giờ chỉ còn gắn với một con người, được thờ như thần thánh.",
+   "caption": "Chi tiết 1: tượng Paul trên ngai, bên cạnh là con chim, nhiều khả năng là chim ưng của nhà Atreides. Biểu tượng của cả gia tộc giờ gắn với một người được thờ như thần."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 0.5,
+     "d": 3.5,
+     "x": 0.55
+    },
+    {
+     "v": 1,
+     "t": 4.8,
+     "d": 3.1
+    },
+    {
+     "v": 1,
+     "t": 7.9,
+     "d": 1.7
+    }
+   ],
+   "headline": "2. Hai Paul khác nhau",
+   "voice": "Chi tiết thứ hai: Paul ở trailer cuối cạo đầu, gầy gò, khác hẳn mái tóc xoăn quen thuộc. Những cảnh Paul tóc xoăn ôm Chani, nhiều khả năng là hồi tưởng về những ngày còn hạnh phúc. Một cách rất khéo để cho thấy mười bảy năm đã lấy đi những gì.",
+   "caption": "Chi tiết 2: Paul cạo đầu, gầy gò, khác hẳn mái tóc xoăn. Những cảnh tóc xoăn ôm Chani nhiều khả năng là hồi tưởng. Một cách khéo để cho thấy 17 năm đã lấy đi những gì."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 25.6,
+     "d": 3.8
+    }
+   ],
+   "headline": "3. Đôi tay trong cát",
+   "voice": "Chi tiết thứ ba rất nhỏ: đôi tay vục vào cát. Với mình, đây là hình ảnh của một người đang nhớ về sa mạc, nơi duy nhất anh từng thực sự được tự do.",
+   "caption": "Chi tiết 3: đôi tay vục vào cát. Hình ảnh của một người nhớ về sa mạc, nơi duy nhất anh từng thực sự tự do."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 52.1,
+     "d": 1.1
+    },
+    {
+     "v": 1,
+     "t": 53.2,
+     "d": 0.8
+    },
+    {
+     "v": 1,
+     "t": 59.7,
+     "d": 1.0
+    }
+   ],
+   "headline": "4. Căn phòng ánh sáng",
+   "voice": "Chi tiết thứ tư: Hayt quỳ trong một căn phòng đầy những thanh sáng. Mình đoán đây là nơi ghola được tạo ra hoặc được huấn luyện, và nếu đúng, phim sẽ cho ta thấy công nghệ của nhà Tleilaxu lần đầu tiên.",
+   "caption": "Chi tiết 4: Hayt quỳ trong căn phòng đầy thanh sáng. Mình đoán đây là nơi ghola được tạo ra hoặc huấn luyện, công nghệ Tleilaxu lần đầu lên màn ảnh."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 61.6,
+     "d": 1.1
+    },
+    {
+     "v": 0,
+     "t": 127.5,
+     "d": 0.9
+    },
+    {
+     "v": 2,
+     "t": 66.5,
+     "d": 2.5
+    }
+   ],
+   "headline": "5. Bene Gesserit áo trắng",
+   "voice": "Chi tiết thứ năm: hội Bene Gesserit xuất hiện đông đảo, nhiều cảnh trong những bộ áo choàng trắng, rất khác màu đen quen thuộc ở hai phần trước. Phải chăng hội phù thuỷ đang khoác lên mình một hình ảnh mới, để tiếp cận Hoàng đế?",
+   "caption": "Chi tiết 5: Bene Gesserit xuất hiện đông đảo, nhiều cảnh mặc áo trắng thay vì màu đen quen thuộc. Phải chăng họ đang khoác hình ảnh mới để tiếp cận Hoàng đế?"
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 65.2,
+     "d": 1.0,
+     "x": 0.4
+    },
+    {
+     "v": 0,
+     "t": 139.5,
+     "d": 2.1,
+     "x": 0.45
+    },
+    {
+     "v": 0,
+     "t": 110.2,
+     "d": 0.9
+    }
+   ],
+   "headline": "6. Hai thế giới",
+   "voice": "Và chi tiết cuối cùng: Chani vẫn mặc stillsuit, vẫn sống giữa sa mạc, trong khi Paul ngự trong cung điện. Mười bảy năm sau, hai người đã sống ở hai thế giới khác nhau, và mình nghĩ đó chính là bi kịch lớn nhất của phần ba.",
+   "caption": "Chi tiết 6: Chani vẫn mặc stillsuit giữa sa mạc, Paul ngự trong cung điện. 17 năm sau, hai người sống ở hai thế giới khác nhau, bi kịch lớn nhất của phần 3."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Villeneuve: phần ba là thriller",
+   "sub": "CHƯƠNG 7",
+   "headline": "“Phần ba là một bộ phim thriller”",
+   "bgClip": {
+    "v": 0,
+    "t": 97.8,
+    "d": 2.5
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "quote",
+   "quote": "Nếu phần một là sự chiêm nghiệm, phần hai là phim chiến tranh, thì phần này là một bộ phim thriller.",
+   "sub": "Denis Villeneuve, đạo diễn",
+   "bgClip": {
+    "v": 0,
+    "t": 100.3,
+    "d": 1.0
+   },
+   "voice": "Villeneuve từng chia sẻ rằng: nếu phần một là sự chiêm nghiệm, phần hai là phim chiến tranh, thì phần này là một bộ phim thriller. Căng hơn, nhiều hành động hơn, và theo lời ông, cơ bắp hơn hai phần trước.",
+   "caption": "Villeneuve: nếu phần 1 là chiêm nghiệm, phần 2 là phim chiến tranh, thì phần này là phim thriller. Căng hơn, nhiều hành động hơn, cơ bắp hơn."
+  },
+  {
+   "type": "quote",
+   "quote": "Một cuốn sách rất u tối, một cuốn sách đẹp… Một trong những bộ phim cá nhân nhất của tôi.",
+   "sub": "Denis Villeneuve, nói về Dune Messiah",
+   "bgClip": {
+    "v": 1,
+    "t": 24.3,
+    "d": 1.3
+   },
+   "voice": "Ông cũng gọi Dune Messiah là một cuốn sách rất u tối nhưng đẹp, và nói đây là một trong những bộ phim mang tính cá nhân nhất của mình.",
+   "caption": "Ông gọi Dune Messiah là cuốn sách rất u tối nhưng đẹp, và đây là một trong những phim cá nhân nhất của ông."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 70.1,
+     "d": 2.5
+    },
+    {
+     "v": 0,
+     "t": 111.1,
+     "d": 0.9
+    },
+    {
+     "v": 0,
+     "t": 97.8,
+     "d": 2.5
+    },
+    {
+     "v": 0,
+     "t": 135.6,
+     "d": 2.0
+    },
+    {
+     "v": 1,
+     "t": 122.1,
+     "d": 1.7
+    },
+    {
+     "v": 2,
+     "t": 60.2,
+     "d": 1.5
+    }
+   ],
+   "bedVolume": 0.25,
+   "headline": "Có vẻ ông đã giữ lời",
+   "voice": "Và nhìn những gì trailer khoe ra, từ sâu cát, cháy nổ, cho đến bão cát... [cười] có vẻ ông đã giữ lời.",
+   "caption": "Nhìn những gì trailer khoe ra, từ sâu cát, cháy nổ đến bão cát, có vẻ ông đã giữ lời."
+  },
+  {
+   "type": "warning",
+   "headline": "CẢNH BÁO SPOILER",
+   "sub": "Từ đây là nội dung tiểu thuyết Dune Messiah, kể cả cái kết. Không muốn bị spoil? Hẹn gặp bạn ngoài rạp ngày 18/12!",
+   "minSec": 8,
+   "voice": "Từ đây trở đi, mình sẽ nói về nội dung cuốn Dune Messiah, kể cả cái kết. Nếu bạn chưa đọc sách và muốn giữ bất ngờ khi ra rạp, thì đây là lúc dừng lại. Còn không, chúng ta đi tiếp.",
+   "caption": "Từ đây là nội dung Dune Messiah, kể cả cái kết. Muốn giữ bất ngờ khi ra rạp thì dừng lại nha."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Dune Messiah kể gì? (spoiler)",
+   "sub": "CHƯƠNG 8 • SPOILER SÁCH",
+   "headline": "Dune Messiah kể gì?",
+   "bgClip": {
+    "v": 0,
+    "t": 143.5,
+    "d": 1.7
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 33.6,
+     "d": 1.4
+    },
+    {
+     "v": 0,
+     "t": 47.8,
+     "d": 3.1
+    },
+    {
+     "v": 1,
+     "t": 39.0,
+     "d": 3.2
+    },
+    {
+     "v": 2,
+     "t": 80.1,
+     "d": 3.0
+    }
+   ],
+   "headline": "12 năm, 61 tỷ người chết",
+   "voice": "Trong sách, câu chuyện diễn ra mười hai năm sau Dune. Paul đã làm Hoàng đế, và cuộc thánh chiến mang tên anh đã chinh phạt gần như toàn bộ vũ trụ được biết đến. Theo sách, sáu mươi mốt tỷ người đã chết. Điều đau đớn là Paul nhìn thấy trước rằng đây vẫn chưa phải kết cục tồi tệ nhất cho nhân loại, nên anh để cuộc chiến tiếp diễn.",
+   "caption": "Trong sách, chuyện diễn ra 12 năm sau Dune. Thánh chiến chinh phạt gần như cả vũ trụ, 61 tỷ người chết. Paul thấy trước đây chưa phải kết cục tồi tệ nhất, nên để chiến tranh tiếp diễn."
+  },
+  {
+   "type": "list",
+   "headline": "Liên minh âm mưu",
+   "bgClip": {
+    "v": 1,
+    "t": 69.2,
+    "d": 2.2
+   },
+   "bullets": [
+    "Bene Gesserit – Mẹ Bề Trên Mohiam",
+    "Hội Tàu Vũ Trụ – hoa tiêu Edric",
+    "Nhà Tleilaxu – Face Dancer Scytale",
+    "Công chúa Irulan"
+   ],
+   "voice": "Kẻ thù của Paul lập thành một liên minh: hội Bene Gesserit với Mẹ Bề Trên Mohiam, Hội Tàu Vũ Trụ với hoa tiêu Edric, người dùng năng lực tiên tri để che các cuộc họp khỏi tầm nhìn của Paul, nhà Tleilaxu với Scytale, và cả công chúa Irulan.",
+   "caption": "Liên minh âm mưu: Bene Gesserit (Mohiam), Hội Tàu Vũ Trụ (Edric, người che các cuộc họp khỏi tầm nhìn của Paul), nhà Tleilaxu (Scytale), và công chúa Irulan."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 52.1,
+     "d": 1.1
+    },
+    {
+     "v": 1,
+     "t": 53.2,
+     "d": 0.8
+    },
+    {
+     "v": 1,
+     "t": 132.0,
+     "d": 1.4
+    },
+    {
+     "v": 2,
+     "t": 109.6,
+     "d": 0.9
+    },
+    {
+     "v": 0,
+     "t": 101.3,
+     "d": 0.8
+    }
+   ],
+   "headline": "Món quà mang tên Hayt",
+   "voice": "Món quà liên minh gửi đến Paul chính là Hayt, ghola mang hình hài Duncan Idaho. Mục đích là khiến Paul dao động, đồng thời làm người Fremen mất lòng tin, vì với họ, mọi thứ của nhà Tleilaxu đều ô uế.",
+   "caption": "Món quà gửi Paul là Hayt, ghola mang hình hài Duncan. Mục đích: làm Paul dao động và làm người Fremen mất lòng tin, vì với họ mọi thứ của Tleilaxu đều ô uế."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 6.4,
+     "d": 4.4,
+     "x": 0.35
+    },
+    {
+     "v": 0,
+     "t": 32.6,
+     "d": 1.0
+    },
+    {
+     "v": 2,
+     "t": 69.1,
+     "d": 2.3
+    }
+   ],
+   "headline": "Bí mật của Irulan",
+   "voice": "Còn Irulan giữ một bí mật lớn: suốt nhiều năm, cô lén cho Chani dùng thuốc tránh thai. Và Paul biết điều đó. Anh im lặng, vì đã nhìn thấy trước rằng việc sinh người thừa kế sẽ khiến Chani phải chết.",
+   "caption": "Bí mật của Irulan: lén cho Chani dùng thuốc tránh thai suốt nhiều năm. Paul biết, nhưng im lặng, vì thấy trước việc sinh con sẽ khiến Chani chết."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 97.8,
+     "d": 2.5
+    },
+    {
+     "v": 1,
+     "t": 66.5,
+     "d": 1.6
+    },
+    {
+     "v": 1,
+     "t": 68.1,
+     "d": 0.5
+    },
+    {
+     "v": 0,
+     "t": 106.3,
+     "d": 0.5
+    }
+   ],
+   "headline": "Stone burner",
+   "voice": "Rồi một vũ khí nguyên tử tên là stone burner phát nổ. Paul bị mù. Theo truyền thống Fremen, người mù phải tự đi vào sa mạc. Nhưng Paul vẫn nhìn được, bằng chính năng lực tiên tri của mình.",
+   "caption": "Một vũ khí nguyên tử tên stone burner phát nổ, Paul bị mù. Theo truyền thống, người mù phải đi vào sa mạc. Nhưng Paul vẫn nhìn được bằng năng lực tiên tri."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 148.3,
+     "d": 2.6
+    },
+    {
+     "v": 1,
+     "t": 142.1,
+     "d": 0.5
+    },
+    {
+     "v": 1,
+     "t": 141.1,
+     "d": 1.0
+    },
+    {
+     "v": 1,
+     "t": 114.1,
+     "d": 1.7
+    },
+    {
+     "v": 0,
+     "t": 135.6,
+     "d": 3.9
+    }
+   ],
+   "headline": "Cái kết của sách",
+   "voice": "[thở dài] Cái kết của sách, rất đau. Chani sinh đôi Leto và Ghanima, rồi qua đời vì cơ thể đã kiệt quệ. Cú sốc đó kích hoạt lệnh giết Paul được cài sẵn trong Hayt, nhưng chính nó lại giúp Duncan lấy lại toàn bộ ký ức. Scytale dùng hai đứa trẻ để uy hiếp, và Paul, dù mù, vẫn giết được hắn nhờ nhìn qua đôi mắt của con trai mình. Cuối cùng, Paul chọn đi một mình vào sa mạc theo truyền thống Fremen, để lại Alia làm nhiếp chính cho hai đứa trẻ.",
+   "caption": "Chani sinh đôi Leto và Ghanima rồi qua đời. Cú sốc kích hoạt lệnh giết trong Hayt, nhưng giúp Duncan lấy lại ký ức. Paul mù vẫn giết được Scytale nhờ nhìn qua mắt con trai. Cuối cùng Paul đi một mình vào sa mạc, để Alia làm nhiếp chính."
+  },
+  {
+   "type": "quote",
+   "quote": "Siêu anh hùng là thảm hoạ đối với nhân loại.",
+   "sub": "Frank Herbert, tác giả Dune",
+   "bgClip": {
+    "v": 1,
+    "t": 114.1,
+    "d": 1.7
+   },
+   "voice": "Và đây mới là điều quan trọng nhất. Frank Herbert viết Dune Messiah để đảo ngược tất cả những gì người đọc yêu thích ở cuốn đầu tiên. Ông từng nói, những vị siêu anh hùng là thảm hoạ đối với nhân loại. Paul chưa bao giờ là người hùng. Paul... là một lời cảnh báo.",
+   "caption": "Frank Herbert viết Dune Messiah để đảo ngược những gì người đọc yêu ở cuốn đầu. Ông nói siêu anh hùng là thảm hoạ với nhân loại. Paul không phải người hùng. Paul là lời cảnh báo."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Phim đã thay đổi gì?",
+   "sub": "CHƯƠNG 9",
+   "headline": "Phim đã thay đổi những gì?",
+   "bgClip": {
+    "v": 0,
+    "t": 74.3,
+    "d": 1.7
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "compare",
+   "headline": "Sách và phim: những khác biệt",
+   "cols": [
+    "Sách Dune Messiah",
+    "Phim Dune: Part Three"
+   ],
+   "bgClip": {
+    "v": 0,
+    "t": 135.6,
+    "d": 4
+   },
+   "rows": [
+    {
+     "label": "Thời gian",
+     "a": "12 năm sau Dune",
+     "b": "17 năm sau Part Two"
+    },
+    {
+     "label": "Chani",
+     "a": "Không tham gia âm mưu",
+     "b": "Nhiều dấu hiệu liên quan âm mưu"
+    },
+    {
+     "label": "Lady Jessica",
+     "a": "Không xuất hiện",
+     "b": "Có một phân cảnh"
+    },
+    {
+     "label": "Chiến tranh",
+     "a": "Chủ yếu được nhắc lại",
+     "b": "Trận chiến trên nhiều hành tinh"
+    },
+    {
+     "label": "Paul",
+     "a": "Bi kịch, tự lưu đày",
+     "b": "Thiên về chuộc lỗi"
+    }
+   ],
+   "voice": "Vậy phim đã đổi những gì so với sách? Bước nhảy thời gian dài hơn, mười bảy năm thay vì mười hai. Lady Jessica có mặt, dù trong sách bà không hề xuất hiện. Chiến tranh được đưa lên màn ảnh thay vì chỉ được nhắc lại. Villeneuve nói hành trình của Paul sẽ thiên về chuộc lỗi. Và thay đổi lớn nhất, theo mình, nằm ở Chani.",
+   "caption": "Khác biệt: nhảy 17 năm thay vì 12, có Lady Jessica, chiến tranh lên màn ảnh, Paul thiên về chuộc lỗi. Và thay đổi lớn nhất nằm ở Chani."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 1,
+     "t": 101.4,
+     "d": 3.3
+    },
+    {
+     "v": 1,
+     "t": 112.7,
+     "d": 1.4
+    },
+    {
+     "v": 0,
+     "t": 93.8,
+     "d": 1.3
+    },
+    {
+     "v": 1,
+     "t": 118.9,
+     "d": 2.5
+    }
+   ],
+   "label": "Zendaya",
+   "sub": "Chani",
+   "voice": "Trong sách, Chani luôn đứng về phía Paul. Nhưng ngay từ cuối phần hai, Villeneuve đã để Chani quay lưng bỏ đi khi Paul lên ngôi. Phần ba tiếp tục để Chani là người phản đối lời tiên tri, và mình tin đó sẽ là gốc rễ của mọi rạn nứt giữa hai người.",
+   "caption": "Trong sách, Chani luôn đứng về phía Paul. Nhưng cuối phần 2, Chani đã quay lưng bỏ đi. Phần 3 tiếp tục để Chani phản đối lời tiên tri, gốc rễ của mọi rạn nứt."
+  },
+  {
+   "type": "chapter",
+   "chapter": "Cái kết sẽ ra sao?",
+   "sub": "CHƯƠNG 10",
+   "headline": "Cái kết sẽ ra sao?",
+   "bgClip": {
+    "v": 1,
+    "t": 114.1,
+    "d": 1.7
+   },
+   "minSec": 2.8,
+   "voice": ""
+  },
+  {
+   "type": "list",
+   "headline": "3 khả năng (suy đoán)",
+   "bgClip": {
+    "v": 0,
+    "t": 108.6,
+    "d": 1.2
+   },
+   "bullets": [
+    "Bám sát sách: Chani mất, Paul mù và đi vào sa mạc",
+    "Đổi số phận Chani, theo hướng “chuộc lỗi”",
+    "Kết thúc mở, chừa đường cho Children of Dune"
+   ],
+   "voice": "Vậy cái kết của phim sẽ ra sao? Đây là ba khả năng, và nhớ là chỉ là suy đoán của mình. Một, phim bám sát sách: Chani mất khi sinh con, Paul mù và đi vào sa mạc. Hai, Villeneuve thay đổi số phận của Chani, cho phù hợp với hướng câu chuyện chuộc lỗi mà ông nói tới. Ba, phim để ngỏ cái kết, chừa đường cho Children of Dune nếu hãng muốn làm tiếp.",
+   "caption": "3 khả năng (suy đoán): 1. Bám sát sách, Chani mất, Paul đi vào sa mạc. 2. Đổi số phận Chani theo hướng chuộc lỗi. 3. Kết thúc mở, chừa đường cho Children of Dune."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 0.5,
+     "d": 3.5,
+     "x": 0.55
+    },
+    {
+     "v": 0,
+     "t": 55.8,
+     "d": 2.2
+    },
+    {
+     "v": 0,
+     "t": 124.5,
+     "d": 0.6
+    },
+    {
+     "v": 1,
+     "t": 133.4,
+     "d": 1.5
+    },
+    {
+     "v": 0,
+     "t": 86.55,
+     "d": 0.95
+    }
+   ],
+   "headline": "Điều mình mong chờ nhất",
+   "voice": "Còn điều mình mong chờ nhất? Không phải sâu cát hay những trận chiến, mà là Timothée Chalamet. Đây là lần đầu tiên anh phải đóng một Paul gần như là phản diện. Và chỉ qua vài giây trong trailer, ánh mắt ấy đã đủ làm mình nổi da gà.",
+   "caption": "Điều mình mong chờ nhất: lần đầu Timothée Chalamet đóng một Paul gần như phản diện. Chỉ vài giây trong trailer, ánh mắt ấy đã đủ làm mình nổi da gà."
+  },
+  {
+   "type": "clip",
+   "clips": [
+    {
+     "v": 0,
+     "t": 143.5,
+     "d": 1.7
+    },
+    {
+     "v": 0,
+     "t": 145.1,
+     "d": 1.0
+    },
+    {
+     "v": 1,
+     "t": 139.8,
+     "d": 1.3
+    },
+    {
+     "v": 0,
+     "t": 139.5,
+     "d": 2.1
+    }
+   ],
+   "headline": "Lời từ biệt?",
+   "voice": "Riêng mình nghiêng về khả năng thứ nhất, nhưng với một cách kể khác. Câu thoại cuối trailer, khi Paul nói không còn gì có thể bù đắp được nữa... nghe giống một lời từ biệt, hơn là một lời xin lỗi. Còn bạn thì nghĩ sao?",
+   "caption": "Mình nghiêng về khả năng 1, với cách kể khác. Câu thoại cuối trailer nghe giống lời từ biệt hơn lời xin lỗi. Còn bạn nghĩ sao?"
+  },
+  {
+   "type": "outro",
+   "chapter": "Kết",
+   "headline": "Hẹn gặp ngoài rạp 18/12",
+   "sub": "Comment giả thuyết của bạn và đăng ký kênh để không bỏ lỡ video phân tích tiếp theo.",
+   "bgClip": {
+    "v": 0,
+    "t": 148.3,
+    "d": 2.6
+   },
+   "voice": "Dune phần ba ra rạp ngày mười tám tháng mười hai. Comment giả thuyết của bạn bên dưới, và đừng quên đăng ký The Booker Rise để không bỏ lỡ những video phân tích tiếp theo nha. Hẹn gặp lại!",
+   "caption": "Dune 3 ra rạp 18/12. Comment giả thuyết của bạn, và đăng ký The Booker Rise để không bỏ lỡ video tiếp theo nha!"
+  }
+ ]
+}
